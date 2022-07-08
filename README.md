@@ -1,4 +1,4 @@
--  Hi 👋, I’m Yogesh @yogesh134
+-  Hi 👋, I’m Yogesh
 - 👀 I’m interested in IIoT and Industrial Automation
 - 🌱 I’m currently doing my Bachelor's in Engineering
 - 📫 How to reach me www.linkedin.com/in/yogesh13vs
